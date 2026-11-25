@@ -1,0 +1,22 @@
+{
+  "wheel_id": 966,
+  "structure": "umbrella",
+  "slug": "northshorekitchenrenovation-154",
+  "project": "kitchen-renovation-north-shore-maintenance-91365d2e85fa3d057100",
+  "parent_t1_ref": "northshorekitchenrenovation-013",
+  "node_role": "buffer",
+  "money_target": "northshorekitchenrenovation.com.au",
+  "primary_kw": "kitchen renovation north shore maintenance",
+  "intended_url": "https://sitesau.github.io/northshorekitchenrenovation-154/",
+  "tier": "T2",
+  "writeback_nonce": "a47e5a0acc9e097a",
+  "links": [
+    {
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/kitchen-renovation-north-shore/",
+      "anchor": "kitchen renovation north shore explained",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
